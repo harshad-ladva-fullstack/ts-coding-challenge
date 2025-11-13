@@ -13,16 +13,16 @@
     "test:wip": "cucumber-js -p default --tags 'not @wip' --exit"
   },
   "devDependencies": {
-    "@cucumber/cucumber": "11.3.0",
-    "@hashgraph/sdk": "2.69.0",
-    "@types/node": "22.17.0",
+    "@cucumber/cucumber": "12.2.0",
+    "@hashgraph/sdk": "2.77.0",
+    "@types/node": "24.10.1",
     "cucumber-pretty": "6.0.1",
-    "cucumber-tsflow": "4.5.2",
-    "mocha": "11.7.1",
-    "nodemon": "3.1.10",
-    "rimraf": "6.0.1",
+    "cucumber-tsflow": "4.6.1",
+    "mocha": "11.7.5",
+    "nodemon": "3.1.11",
+    "rimraf": "6.1.0",
     "ts-node": "10.9.2",
-    "typescript": "5.8.3"
+    "typescript": "5.9.3"
   },
   "packageManager": "pnpm@10.22.0+sha512.bf049efe995b28f527fd2b41ae0474ce29186f7edcb3bf545087bd61fbbebb2bf75362d1307fda09c2d288e1e499787ac12d4fcb617a974718a6051f2eee741c"
 }
